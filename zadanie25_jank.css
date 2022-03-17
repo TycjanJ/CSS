@@ -1,0 +1,95 @@
+#zd1_ak1
+{
+	color:#DCDCDC ;
+	font-style: oblique;
+	font-weight: 600;
+	font-size: xx-large;
+	font-family: Georgia;
+	line-height: 12mm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-indent: 28mm;
+	text-align: right;
+	text-transform: uppercase;
+	
+
+}
+
+#zd2_ak1
+{
+	color:#808080 ;
+	font-weight: 800;
+	font-size: xx-small;
+	font-family: Bodoni;
+	line-height: 12mm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-indent: 28mm;
+	text-decoration: overline;
+	text-align: right;
+	
+
+}
+
+#zd3_ak1
+{
+	color:#696969 ;
+	font-weight: 400;
+	font-size: medium;
+	font-family: Times New Roman;
+	line-height: 12mm;
+	word-spacing: 9px;
+	letter-spacing: 3ex;
+	text-indent: 28mm;
+	font-variant: small-caps;
+	text-align: right;
+	
+
+}
+
+#zd1_ak2
+{
+	color:#FF69B4 ;
+	font-weight: 800;
+	font-size: 1in;
+	font-family: Arial;
+	line-height: 18mm;
+	word-spacing: 13pt;
+	letter-spacing: 3mm;
+	text-indent: 3cm;
+	font-variant: small-caps;
+	text-align: center;
+	
+
+}
+
+#zd2_ak2
+{
+	color:#DB7093 ;
+	font-weight: 300;
+	font-size: 29px;
+	font-family: Univers;
+	line-height: 18mm;
+	word-spacing: 13pt;
+	letter-spacing: 3mm;
+	text-indent: 3cm;
+	text-align: center;
+	text-decoration: line-through;
+	text-transform: capitalize;
+
+}
+
+#zd3_ak2
+{
+	color:#FFC0CB ;
+	font-weight: 600;
+	font-size: 2em;
+	font-family: Verdana;
+	line-height: 18mm;
+	word-spacing: 13pt;
+	letter-spacing: 3mm;
+	text-indent: 3cm;
+	text-align: center;
+	font-style: oblique;
+
+}
